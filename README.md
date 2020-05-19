@@ -1,2 +1,2 @@
 # Hello-World
-first repository. testing my skills
+I am 45 and I live in Oklahoma.
